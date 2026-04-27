@@ -54,4 +54,9 @@ int main() {
     ObjectLayanglayang.inputData();
     ObjectBelahketu.inputData();
 
+    cout << "\nHasil Luas" << endl;
+    cout << "Luas Layang Layang : " << ObjectLayanglayang.hitungLuas() << endl;
+    cout << "Luas Belah Ketupat: " << ObjectBelahketu.hitungLuas() << endl;
+
+
 };
