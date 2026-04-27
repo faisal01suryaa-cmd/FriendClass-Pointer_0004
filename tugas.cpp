@@ -35,4 +35,5 @@ class BelahKetupat {
         cin >> d2;
     }
 
+
 };
