@@ -45,3 +45,5 @@ class BelahKetupat {
 
 
 };
+
+int main() {};
