@@ -46,4 +46,8 @@ class BelahKetupat {
 
 };
 
-int main() {};
+int main() {
+    LayangLayang ObjectLayanglayang;
+    BelahKetupat ObjectBelahketu;
+
+};
