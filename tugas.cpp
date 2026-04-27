@@ -21,7 +21,6 @@ class LayangLayang {
     void tampilkanKeliling() {
         cout << "Keliling layang-layang belum dihitung" << endl;
     }
-
-
-
 };
+
+class BelahKetupat {};
