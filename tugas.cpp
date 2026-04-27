@@ -2,4 +2,7 @@
 #include <cmath>
 using namespace std;
 
-class LayangLayang {};
+class LayangLayang {
+    private:
+    double d1, d2;
+};
