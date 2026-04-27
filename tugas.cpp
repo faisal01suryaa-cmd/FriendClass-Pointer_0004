@@ -50,4 +50,8 @@ int main() {
     LayangLayang ObjectLayanglayang;
     BelahKetupat ObjectBelahketu;
 
+    cout << "Input Data" << endl;
+    ObjectLayanglayang.inputData();
+    ObjectBelahketu.inputData();
+
 };
